@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# large / derived data (rebuildable from data/raw)
+data/processed/
+indexes/*.faiss
+indexes/*.pkl
+data/raw/*.pdf
+
+# os
+.DS_Store

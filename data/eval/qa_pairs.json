@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the primary purpose of Technical Guidance Document Number 1?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "When was the CCAC O&G Methane Partnership Technical Guidance Document Number 1 modified?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What types of operations does the OGMP recognize these equipment and processes are found in?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "Besides design functions, what are the other reasons pneumatic controller loops and pumps emit gas?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "When should methane emission mitigation actions that require equipment shut-downs typically be carried out?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "Why might operators choose to use pressurized natural gas instead of compressed air or electricity to power devices?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 0,
+    "expected_modality": "text"
+  },
+  {
+    "question": "Why are natural gas driven chemical injection pumps vital in operations where electricity is unavailable?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What specific problem does injecting methanol into wells and pipelines prevent?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What is the typical pressure regulation range for supply gas sent to a pneumatic controller loop?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What are the primary components of a pneumatic control loop?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What process parameters do pneumatic valves typically regulate?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What happens in a continuous modulated control valve when the valve position is restored or stationary?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What are common alternative names for an intermittent bleed controller?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "Why do gas pressure regulators not have an atmospheric gas vent?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What is the average venting rate of a continuous bleed controller?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What is the average venting rate of an intermittent bleed controller?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "How do automatic controllers translate process measurements to the valve actuator?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What pushes the connecting rod to open or close the valve plug in a pneumatic control loop?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What mechanical component pushes the diaphragm back when gas is vented to the atmosphere?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  },
+  {
+    "question": "What types of unmanned facilities use methane-containing natural gas to regulate process control valves?",
+    "expected_source": "sample 1.pdf",
+    "expected_page": 1,
+    "expected_modality": "text"
+  }
+]
